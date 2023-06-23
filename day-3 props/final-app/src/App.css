@@ -1,0 +1,9 @@
+.name {
+    color: darkcyan;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: cursive;
+    display: flex;
+    justify-content: center;
+    border: 3px solid red;
+}
