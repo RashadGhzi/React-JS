@@ -1,0 +1,19 @@
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+
+
+}
+
+
+.cnt {
+  color: white;
+  background-color: darkcyan;
+  padding: 5em;
+  border-radius: 10px;
+  box-shadow: 0px 0px 13px 0px rgb(63, 63, 63);
+}
