@@ -1,0 +1,44 @@
+.content {
+    height: 100vh;
+    background-color: darkcyan;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+
+}
+
+.name {
+    color: darkcyan;
+    font-size: 3em;
+    font-weight: bold;
+    font-family: cursive;
+}
+
+.role {
+    color: darkslategray;
+    font-size: 3em;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+.subject {
+    color: deeppink;
+    font-size: 3em;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+.btn {
+    border: none;
+    background: cyan;
+    color: white;
+    font-size: 2em;
+    padding: 10px;
+}
