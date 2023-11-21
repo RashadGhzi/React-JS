@@ -1,0 +1,17 @@
+.container {
+  background: darkslategray;
+  color: white;
+  padding: 40px;
+}
+
+.item {
+  padding: 20px;
+  background: darkgoldenrod;
+  margin: 14px 0px;
+  cursor: pointer;
+  border-radius: 5px;
+  font-weight: bold;
+}
+.react-beautiful-dnd-draggable {
+  transition: transform 0.2s;
+}
